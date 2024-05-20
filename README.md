@@ -1,4 +1,5 @@
 # Pacman Reinforcement Learning Project
+Done as part of INFO-550- Artificial Intelligence course the the University of Arizona
 
 ![image](https://github.com/shakir-flash/Pacman-AI-Reinforcement-Learning/assets/59859522/4d259eef-3371-4a1c-bd8e-3feba43a75d5)
 
